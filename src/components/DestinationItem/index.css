@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.item-con {
+  margin: 0 20px 20px 0;
+  width: 200px;
+}
+
+.item-img {
+  width: 200px;
+}
+
+.item-name {
+  font-weight: 500;
+}
